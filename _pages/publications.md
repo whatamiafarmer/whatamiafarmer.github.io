@@ -15,15 +15,15 @@ I talk a little bit about the book [here](https://stanfordpress.typepad.com/blog
 <br>
 
 ### articles and book chapters ###  
-“Literary Data” in [*The Cambridge Companion to Literature in the Digital Age*](https://www.cambridge.org/core_title/gb/597497), ed. Adam Hammond, 2024
+[“Literary Data”](https://www.cambridge.org/core_title/gb/597497) in *The Cambridge Companion to Literature in a Digital Age*, ed. Adam Hammond, 2024
 
 With Almas Abdibayev, Allen Riddell, and Daniel Rockmore, [“Limericks and Computational Poetics: The Minimal Pairs Framework,”](https://jcls.io/article/id/117/) *Journal of Computational Literary Studies* 1.1, 2022
 
-“Shelley amid the Age of Separations: Romantic Sociology and Romantic Media Theory” in *Multi-Media Romanticisms*, eds. James Brooke-Smith and Andrew Burkett, *Romantic Circles Praxis*, 2016
+“Shelley amid the Age of Separations: Romantic Sociology and Romantic Media Theory” in *Multi-Media Romanticisms*, eds. James Brooke-Smith and Andrew Burkett, [*Romantic Circles Praxis*](https://romantic-circles.org/praxis), 2016
 
 [“Statistical Analysis at the Birth of Close Reading,”](https://muse.jhu.edu/pub/1/article/601625) *New Literary History*, 46.3, 2015
 
-[“Keats’s Ways: The Dark Passages of Mediation and Why He Gives Up Hyperion,”](https://muse.jhu.edu/article/741803) *Studies in Romanticism*, 53.2, 2014. Winner of the Keats-Shelley Association of American Essay Prize for 2015
+[“Keats’s Ways: The Dark Passages of Mediation and Why He Gives Up Hyperion,”](https://muse.jhu.edu/article/741803) *Studies in Romanticism*, 53.2, 2014. Awarded the Keats-Shelley Association of America Essay Prize for 2015
 <br>
 <br>
 

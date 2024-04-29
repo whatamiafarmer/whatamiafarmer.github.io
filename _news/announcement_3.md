@@ -6,6 +6,6 @@ related_posts: false
 draft: true
 ---
 
-Keynote talk on the history of literary computing at the annual meeting of the <a href='https://trln.org/'>Triangle Research Libraries Network</a>. 
+Keynote talk on the history of literary computing at the annual meeting of the <a href='https://trln.org/'>Triangle Research Libraries Network</a>
 
 
