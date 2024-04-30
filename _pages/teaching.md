@@ -31,7 +31,3 @@ ENGL 4600: **Nabokov** [Advanced Study Undergraduate Seminar] (S20, F17)
 ENGL 5650: **Introduction to Digital Humanities** (S21, S19)
 
 ENGL 6750: **Literature, Media, and Communication** [Seminar in Language and Literature] (F14)
-
-### graduate advising ###
-
-I would be glad to hear from prospective graduate students interested in studying British Romantic literature, literature and media studies, computational literary studies, literature and the digital age, or some blend of these. I would also encourage you to consult the research interests of <a href='https://english.uconn.edu/faculty-directory/?&group=Full-Time%20Faculty'>my terrific colleagues</a>.
